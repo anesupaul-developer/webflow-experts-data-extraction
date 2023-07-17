@@ -123,9 +123,9 @@ def get_expert_info():
     return stats
 
 
-# results, num = get_webflow_experts('https://experts.webflow.com/browse')
-# df = pd.DataFrame(results)
-# df.to_csv("webflow-experts-results.csv")
+results, num = get_webflow_experts('https://experts.webflow.com/browse')
+df = pd.DataFrame(results)
+df.to_csv("webflow-experts-results.csv")
 
 full_experts = get_expert_info()
 dframe = pd.DataFrame(full_experts)
