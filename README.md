@@ -9,4 +9,6 @@ Here's what I need:
 
 The list can be found here: https://experts.webflow.com/browse
 
-![Task description]('https://github.com/anesupaul-developer') 
+![Task description](https://github.com/anesupaul-developer/webflow-experts-data-extraction/blob/main/screenshots/upwork-task-description.png) 
+
+![Results](https://github.com/anesupaul-developer/webflow-experts-data-extraction/blob/main/screenshots/final-results.png) 
